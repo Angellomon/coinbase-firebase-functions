@@ -1,0 +1,9 @@
+{
+  "coingate": {
+    "callbackurl": "https://localhost:5000/callback",
+    "authtoken": "the auth token",
+    "successurl": "https://localhost:5000/success",
+    "apiurl": "https://api-sandbox.coingate.com/api/v2",
+    "cancelurl": "https://localhost:5000/cancel"
+  }
+}
